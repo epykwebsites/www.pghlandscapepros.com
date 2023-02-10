@@ -169,7 +169,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(../img/intro-bg.jpg) center center no-repeat;
+	background: url(../img/uploads/lawn.jpg) center center no-repeat;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -203,6 +203,22 @@ header .intro-text {
 	padding-bottom: 150px;
 	text-align: center;
 }
+@media(max-width:768px){
+	#intro-name {
+		font-size: 32px;
+	}
+}
+
+#intro-desc {
+	font-size: 25px
+}
+
+@media(max-width:768px){
+	#intro-desc {
+		font-size: 18px;
+	}
+}
+
 /* Get Touch Section */
 #get-touch {
 	padding: 40px 0 30px;
