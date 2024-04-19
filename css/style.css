@@ -142,7 +142,7 @@ hr {
 .btn-custom {
 	text-transform: uppercase;
 	color: #fff;
-	background-color: #e52f3c;
+	background-color: #007bbd;
 	padding: 14px 20px;
 	letter-spacing: 1px;
 	margin: 0;
@@ -241,8 +241,8 @@ header .intro-text {
 	border: 2px solid #fff;
 }
 #get-touch .btn-custom:hover {
-	color: #000000;
-	background: #fff;
+	color: #fff;
+	background: #007bbd;
 	border: 2px solid #fff;
 }
 /* About Section */
@@ -511,7 +511,7 @@ color: #777;
 }
 /* Footer Section*/
 #footer {
-	background: #f6f6f6;
+	background: #000;
 	padding: 30px 0;
 }
 #footer p {
@@ -519,7 +519,7 @@ color: #777;
 	font-size: 14px;
 }
 #footer a {
-	color: #000;
+	color:#FFFFFF;
 }
 #footer a:hover {
 	color: #e52f3c;
