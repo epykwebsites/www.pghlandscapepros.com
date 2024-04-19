@@ -43,7 +43,7 @@ a {
 }
 a:hover, a:focus {
 	text-decoration: none;
-	color: #e52f3c;
+	color: #007bbd;
 }
 ul, ol {
 	list-style: none;
@@ -133,7 +133,7 @@ hr {
 .section-title h2::after {
 	position: absolute;
 	content: "";
-	background-color: #e52f3c;
+	background-color: #007bbd;
 	height: 3px;
 	width: 50px;
 	bottom: -1px;
@@ -263,7 +263,7 @@ header .intro-text {
 #about h2::after {
 	position: absolute;
 	content: "";
-	background-color: #e52f3c;
+	background-color: #007bbd;
 	height: 3px;
 	width: 50px;
 	bottom: -1px;
@@ -522,7 +522,7 @@ color: #777;
 	color:#FFFFFF;
 }
 #footer a:hover {
-	color: #e52f3c;
+	color: #007bbd;
 }
 
 @media (max-width: 768px) {
